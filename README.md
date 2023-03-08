@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aleksiy821
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning 17
+- 🌱 I’m currently learning 18
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
